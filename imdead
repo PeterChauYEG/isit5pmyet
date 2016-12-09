@@ -1,0 +1,4 @@
+#!/bin/bash
+# im so dead right now
+
+cd ~/dead && npm start

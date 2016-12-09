@@ -1,0 +1,13 @@
+{
+  "name": "dead",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dead.js",
+  "scripts": {
+    "start": "node dead.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
