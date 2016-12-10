@@ -1,0 +1,16 @@
+{
+  "name": "node-spinner",
+  "version": "1.0.0",
+  "description": "put this in your ~/bin folder and run with `imdead` in terminal",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dead.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clui": "^0.3.1",
+    "moment": "^2.17.1",
+    "moment-timezone": "^0.5.10"
+  }
+}
